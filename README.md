@@ -1,9 +1,6 @@
 # Crypto-Bot by Manik Jain
 
 Functionality: 
-- Support for LINK and FLOW.
-- Hourly updates on crypto prices.
-
-TODO: 
-- Added support for more cryptocurrencies
-- More user interactibility
+- Implementable on your own Discord server.
+- Support for hundreds of cryptocurrencies.
+- Regular updates and notification of cryptocurrency prices and movements.
